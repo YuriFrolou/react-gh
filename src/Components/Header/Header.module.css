@@ -1,0 +1,29 @@
+.header{
+    background: rgba(38,38,38,0.3);
+}
+.logo{
+    width: 50%;
+    max-width: 200px;
+}
+.headerSearchBtn{
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+}
+.headerSearchBtn img{
+    object-fit: contain;
+}
+.headerSearchInput{
+    border:none;
+    border-bottom: 1px solid lightseagreen;
+    outline: none;
+}
+.headerAccountIcon{
+    width: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

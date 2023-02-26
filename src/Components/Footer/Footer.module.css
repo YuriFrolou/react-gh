@@ -1,0 +1,37 @@
+.footer {
+    font-size: 15px;
+    background: rgba(38, 38, 38, 0.5);
+    padding: 40px 0;
+}
+
+.footerLogo {
+    padding: 0;
+}
+
+.footerLogo img {
+    object-fit: fill;
+    object-position: left;
+    margin-top: -20px;
+}
+
+.footerList li img {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer a:hover img {
+    transform: scale(1.1);
+}
+
+.footer a {
+    color: rgba(38, 38, 38, 0.6);
+}
+
+.footer a:hover{
+    color:rgba(38,38,38,1);
+}
