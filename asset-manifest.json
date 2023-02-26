@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh/static/css/main.dcb999f7.css",
+    "main.js": "/react-gh/static/js/main.dfba05ba.js",
+    "static/js/787.2b5d27e4.chunk.js": "/react-gh/static/js/787.2b5d27e4.chunk.js",
+    "static/media/ancient.jpg": "/react-gh/static/media/ancient.86dc6544de90b39c4200.jpg",
+    "static/media/relations.jpg": "/react-gh/static/media/relations.7985cb46ae6a2adfbff6.jpg",
+    "static/media/stetoscop.jpg": "/react-gh/static/media/stetoscop.69fe5fab70a5a3279cbc.jpg",
+    "static/media/newInMedicine.jpg": "/react-gh/static/media/newInMedicine.ae2945d4cf3c898e5906.jpg",
+    "static/media/Bosom.png": "/react-gh/static/media/Bosom.be79b81f74b53ccce3f1.png",
+    "static/media/Top.png": "/react-gh/static/media/Top.e7c8c5c452eb8f085c1b.png",
+    "static/media/mediczina.jpg": "/react-gh/static/media/mediczina.714ea24f675ce659e968.jpg",
+    "static/media/digital.jpg": "/react-gh/static/media/digital.f296a5d87f1bc90c0e10.jpg",
+    "static/media/user.png": "/react-gh/static/media/user.05d0404ad8a0ab5bdefa.png",
+    "static/media/search.png": "/react-gh/static/media/search.e21534c50161a2f513a7.png",
+    "index.html": "/react-gh/index.html",
+    "static/media/search-hover.svg": "/react-gh/static/media/search-hover.dc046d025fb015254e05c9247a63842a.svg",
+    "main.dcb999f7.css.map": "/react-gh/static/css/main.dcb999f7.css.map",
+    "main.dfba05ba.js.map": "/react-gh/static/js/main.dfba05ba.js.map",
+    "787.2b5d27e4.chunk.js.map": "/react-gh/static/js/787.2b5d27e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb999f7.css",
+    "static/js/main.dfba05ba.js"
+  ]
+}
