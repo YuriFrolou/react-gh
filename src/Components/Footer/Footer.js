@@ -41,10 +41,10 @@ const Footer = () => {
                     <div className="col-12  col-md-3">
                         <h5 className="footer-heading">Контакты</h5>
                         <ul className={styles.footerList}>
-                            <li className="footer-list__item mb-2">
+                            <li className="footer-list__item mb-2 d-flex justify-content-center justify-content-md-start">
                                 <Link to="tel:+375(17)6543210" className="d-flex"><img src={Phone} alt="phone"/>+375(17)6543210</Link>
                             </li>
-                            <li className="footer-list__item mb-3 d-flex">
+                            <li className="footer-list__item mb-3 d-flex justify-content-center justify-content-md-start">
                                 <Link to="mailto:test@mail.ru" className="d-flex"><img src={Mail} alt="email"/>test@mail.ru</Link>
                             </li>
                             <li className="footer-list__item d-flex justify-content-center justify-content-md-start">
